@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="Moveit" src="public/favicon.png" width="120px">
+  <img alt="Moveit" src="public/icons/logo.svg" width="120px">
 </p>
 
 ## 🚀 Tecnologias
