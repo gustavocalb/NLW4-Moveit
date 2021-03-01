@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="Moveit" src="public/icons/logo.svg" width="120px">
+  <img alt="Moveit" src="public/moveit.svg" width="120px">
 </p>
 
 ## 🚀 Tecnologias
@@ -40,6 +40,4 @@ Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para ace
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-# NLW4-Moveit
-# NLW4-Moveit
 # NLW4-Moveit
